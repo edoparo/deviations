@@ -1,0 +1,3413 @@
+[
+  {
+    "SUBJECTID": "01-001",
+    "Period": "P1",
+    "ipAdministration": "8:11",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-001",
+    "Period": "P2",
+    "ipAdministration": "7:52",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h14:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-001",
+    "Period": "P3",
+    "ipAdministration": "7:47",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-001",
+    "Period": "P4",
+    "ipAdministration": "7:53",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:48"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:48"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-002",
+    "Period": "P1",
+    "ipAdministration": "8:17",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-002",
+    "Period": "P2",
+    "ipAdministration": "8:26",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-002",
+    "Period": "P3",
+    "ipAdministration": "7:55",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:32"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-002",
+    "Period": "P4",
+    "ipAdministration": "7:59",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:42"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:42"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-003",
+    "Period": "P1",
+    "ipAdministration": "8:34",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-003",
+    "Period": "P2",
+    "ipAdministration": "8:18",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-003",
+    "Period": "P3",
+    "ipAdministration": "8:17",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-003",
+    "Period": "P4",
+    "ipAdministration": "8:22",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-004",
+    "Period": "P1",
+    "ipAdministration": "8:23",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-004",
+    "Period": "P2",
+    "ipAdministration": "8:06",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h14:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-004",
+    "Period": "P3",
+    "ipAdministration": "8:05",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-004",
+    "Period": "P4",
+    "ipAdministration": "8:08",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-006",
+    "Period": "P1",
+    "ipAdministration": "8:29",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-006",
+    "Period": "P2",
+    "ipAdministration": "8:11",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h14:00 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-006",
+    "Period": "P3",
+    "ipAdministration": "8:11",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-006",
+    "Period": "P4",
+    "ipAdministration": "8:14",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-007",
+    "Period": "P1",
+    "ipAdministration": "8:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:26"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-007",
+    "Period": "P2",
+    "ipAdministration": "8:22",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-007",
+    "Period": "P3",
+    "ipAdministration": "8:23",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-007",
+    "Period": "P4",
+    "ipAdministration": "8:26",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-008",
+    "Period": "P1",
+    "ipAdministration": "8:18",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-008",
+    "Period": "P2",
+    "ipAdministration": "8:22",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-008",
+    "Period": "P3",
+    "ipAdministration": "8:15",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-008",
+    "Period": "P4",
+    "ipAdministration": "8:20",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-009",
+    "Period": "P1",
+    "ipAdministration": "8:13",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-009",
+    "Period": "P2",
+    "ipAdministration": "8:16",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-009",
+    "Period": "P3",
+    "ipAdministration": "8:08",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-009",
+    "Period": "P4",
+    "ipAdministration": "8:15",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-010",
+    "Period": "P1",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-010",
+    "Period": "P2",
+    "ipAdministration": "7:54",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-010",
+    "Period": "P3",
+    "ipAdministration": "7:50",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-010",
+    "Period": "P4",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-011",
+    "Period": "P1",
+    "ipAdministration": "8:04",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-011",
+    "Period": "P2",
+    "ipAdministration": "8:00",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-011",
+    "Period": "P3",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-011",
+    "Period": "P4",
+    "ipAdministration": "8:02",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-012",
+    "Period": "P1",
+    "ipAdministration": "8:09",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-012",
+    "Period": "P2",
+    "ipAdministration": "8:08",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-012",
+    "Period": "P3",
+    "ipAdministration": "8:02",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-012",
+    "Period": "P4",
+    "ipAdministration": "8:10",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-013",
+    "Period": "P1",
+    "ipAdministration": "7:54",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-013",
+    "Period": "P2",
+    "ipAdministration": "7:47",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-013",
+    "Period": "P3",
+    "ipAdministration": "7:44",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-013",
+    "Period": "P4",
+    "ipAdministration": "",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-015",
+    "Period": "P1",
+    "ipAdministration": "8:10",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-015",
+    "Period": "P2",
+    "ipAdministration": "8:13",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-015",
+    "Period": "P3",
+    "ipAdministration": "8:11",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-015",
+    "Period": "P4",
+    "ipAdministration": "8:06",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-016",
+    "Period": "P1",
+    "ipAdministration": "8:14",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-016",
+    "Period": "P2",
+    "ipAdministration": "8:18",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-016",
+    "Period": "P3",
+    "ipAdministration": "8:15",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-016",
+    "Period": "P4",
+    "ipAdministration": "8:10",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-017",
+    "Period": "P1",
+    "ipAdministration": "7:57",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-017",
+    "Period": "P2",
+    "ipAdministration": "7:58",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-017",
+    "Period": "P3",
+    "ipAdministration": "7:59",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-017",
+    "Period": "P4",
+    "ipAdministration": "7:53",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-018",
+    "Period": "P1",
+    "ipAdministration": "8:02",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-018",
+    "Period": "P2",
+    "ipAdministration": "8:03",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-018",
+    "Period": "P3",
+    "ipAdministration": "8:03",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-018",
+    "Period": "P4",
+    "ipAdministration": "7:57",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-019",
+    "Period": "P1",
+    "ipAdministration": "7:42",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-019",
+    "Period": "P2",
+    "ipAdministration": "7:45",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:45"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:45"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-019",
+    "Period": "P3",
+    "ipAdministration": "7:47",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:43"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:43"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-019",
+    "Period": "P4",
+    "ipAdministration": "7:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-020",
+    "Period": "P1",
+    "ipAdministration": "7:48",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-020",
+    "Period": "P2",
+    "ipAdministration": "7:48",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:42"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:42"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-020",
+    "Period": "P3",
+    "ipAdministration": "7:51",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-020",
+    "Period": "P4",
+    "ipAdministration": "7:45",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:35"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:35"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-021",
+    "Period": "P1",
+    "ipAdministration": "7:52",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-021",
+    "Period": "P2",
+    "ipAdministration": "7:53",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:37"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-021",
+    "Period": "P3",
+    "ipAdministration": "7:55",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:35"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:35"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-021",
+    "Period": "P4",
+    "ipAdministration": "7:49",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-022",
+    "Period": "P1",
+    "ipAdministration": "8:07",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-022",
+    "Period": "P2",
+    "ipAdministration": "8:08",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-022",
+    "Period": "P3",
+    "ipAdministration": "8:07",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-022",
+    "Period": "P4",
+    "ipAdministration": "8:02",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-023",
+    "Period": "P1",
+    "ipAdministration": "7:37",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:53"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:53"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:43"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:43"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-023",
+    "Period": "P2",
+    "ipAdministration": "7:31",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:29"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:59"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:59"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:44"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:44"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-023",
+    "Period": "P3",
+    "ipAdministration": "7:34",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:26"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-023",
+    "Period": "P4",
+    "ipAdministration": "7:33",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:42"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:42"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-024",
+    "Period": "P1",
+    "ipAdministration": "7:50",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:40"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:40"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-024",
+    "Period": "P2",
+    "ipAdministration": "7:43",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:47"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:47"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-024",
+    "Period": "P3",
+    "ipAdministration": "7:46",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-024",
+    "Period": "P4",
+    "ipAdministration": "7:46",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-025",
+    "Period": "P1",
+    "ipAdministration": "8:08",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-025",
+    "Period": "P2",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-025",
+    "Period": "P3",
+    "ipAdministration": "8:02",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-025",
+    "Period": "P4",
+    "ipAdministration": "8:06",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-026",
+    "Period": "P1",
+    "ipAdministration": "8:13",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-026",
+    "Period": "P2",
+    "ipAdministration": "8:04",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-026",
+    "Period": "P3",
+    "ipAdministration": "8:06",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-026",
+    "Period": "P4",
+    "ipAdministration": "8:02",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-027",
+    "Period": "P1",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-027",
+    "Period": "P2",
+    "ipAdministration": "7:51",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:24"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-027",
+    "Period": "P3",
+    "ipAdministration": "7:54",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-027",
+    "Period": "P4",
+    "ipAdministration": "7:54",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-028",
+    "Period": "P1",
+    "ipAdministration": "7:54",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:26"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-028",
+    "Period": "P2",
+    "ipAdministration": "7:47",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-028",
+    "Period": "P3",
+    "ipAdministration": "7:50",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-028",
+    "Period": "P4",
+    "ipAdministration": "7:50",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-029",
+    "Period": "P1",
+    "ipAdministration": "7:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:49"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:49"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-029",
+    "Period": "P2",
+    "ipAdministration": "7:35",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:55"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:55"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:40"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:40"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-029",
+    "Period": "P3",
+    "ipAdministration": "7:38",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:32"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-029",
+    "Period": "P4",
+    "ipAdministration": "7:37",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:38"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:38"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-030",
+    "Period": "P1",
+    "ipAdministration": "8:04",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:26"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-030",
+    "Period": "P2",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-030",
+    "Period": "P3",
+    "ipAdministration": "7:58",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-030",
+    "Period": "P4",
+    "ipAdministration": "7:58",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-031",
+    "Period": "P1",
+    "ipAdministration": "8:18",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-031",
+    "Period": "P2",
+    "ipAdministration": "8:08",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-031",
+    "Period": "P3",
+    "ipAdministration": "8:10",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-032",
+    "Period": "P1",
+    "ipAdministration": "7:46",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:44"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:44"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-032",
+    "Period": "P2",
+    "ipAdministration": "7:39",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:51"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:51"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:36"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:36"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-032",
+    "Period": "P3",
+    "ipAdministration": "7:42",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h16:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:18"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:18"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-032",
+    "Period": "P4",
+    "ipAdministration": "7:41",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-033",
+    "Period": "P1",
+    "ipAdministration": "8:16",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:26"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:26"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-033",
+    "Period": "P2",
+    "ipAdministration": "8:12",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-033",
+    "Period": "P3",
+    "ipAdministration": "8:05",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-033",
+    "Period": "P4",
+    "ipAdministration": "8:04",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-034",
+    "Period": "P1",
+    "ipAdministration": "7:47",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:38"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:38"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-034",
+    "Period": "P2",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-034",
+    "Period": "P3",
+    "ipAdministration": "7:53",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-034",
+    "Period": "P4",
+    "ipAdministration": "7:52",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-035",
+    "Period": "P1",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-035",
+    "Period": "P2",
+    "ipAdministration": "7:52",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-035",
+    "Period": "P3",
+    "ipAdministration": "7:45",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-035",
+    "Period": "P4",
+    "ipAdministration": "7:44",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-036",
+    "Period": "P1",
+    "ipAdministration": "7:55",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-036",
+    "Period": "P2",
+    "ipAdministration": "8:04",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-036",
+    "Period": "P3",
+    "ipAdministration": "7:57",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-036",
+    "Period": "P4",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-038",
+    "Period": "P1",
+    "ipAdministration": "8:11",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:21"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-038",
+    "Period": "P2",
+    "ipAdministration": "8:09",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-038",
+    "Period": "P3",
+    "ipAdministration": "8:01",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-038",
+    "Period": "P4",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-039",
+    "Period": "P1",
+    "ipAdministration": "7:37",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:48"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:48"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-039",
+    "Period": "P2",
+    "ipAdministration": "7:48",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-039",
+    "Period": "P3",
+    "ipAdministration": "7:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-039",
+    "Period": "P4",
+    "ipAdministration": "7:40",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:35"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:35"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-041",
+    "Period": "P1",
+    "ipAdministration": "7:42",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:43"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-042",
+    "Period": "P1",
+    "ipAdministration": "8:05",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-042",
+    "Period": "P2",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-042",
+    "Period": "P3",
+    "ipAdministration": "7:49",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-042",
+    "Period": "P4",
+    "ipAdministration": "7:48",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-043",
+    "Period": "P1",
+    "ipAdministration": "8:22",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:22"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-043",
+    "Period": "P2",
+    "ipAdministration": "8:08",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-043",
+    "Period": "P3",
+    "ipAdministration": "8:15",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-043",
+    "Period": "P4",
+    "ipAdministration": "8:01",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-044",
+    "Period": "P1",
+    "ipAdministration": "7:54",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-044",
+    "Period": "P2",
+    "ipAdministration": "7:48",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:37"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-044",
+    "Period": "P3",
+    "ipAdministration": "7:46",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:34"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-044",
+    "Period": "P4",
+    "ipAdministration": "7:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:19"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-045",
+    "Period": "P1",
+    "ipAdministration": "",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-046",
+    "Period": "P1",
+    "ipAdministration": "8:04",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-046",
+    "Period": "P2",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-046",
+    "Period": "P3",
+    "ipAdministration": "7:55",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-046",
+    "Period": "P4",
+    "ipAdministration": "7:53",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:27"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-047",
+    "Period": "P1",
+    "ipAdministration": "7:44",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-047",
+    "Period": "P2",
+    "ipAdministration": "7:44",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-047",
+    "Period": "P3",
+    "ipAdministration": "7:41",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:39"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-047",
+    "Period": "P4",
+    "ipAdministration": "",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-048",
+    "Period": "P1",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-048",
+    "Period": "P2",
+    "ipAdministration": "7:52",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:33"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-048",
+    "Period": "P3",
+    "ipAdministration": "7:49",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:41"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Meal Day 1 h16:00 - IP adm.)",
+        "val": "-0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-048",
+    "Period": "P4",
+    "ipAdministration": "7:45",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:35"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:35"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-049",
+    "Period": "P1",
+    "ipAdministration": "8:13",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-049",
+    "Period": "P2",
+    "ipAdministration": "8:04",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:21"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-049",
+    "Period": "P3",
+    "ipAdministration": "8:07",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-049",
+    "Period": "P4",
+    "ipAdministration": "7:57",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-050",
+    "Period": "P1",
+    "ipAdministration": "8:09",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-050",
+    "Period": "P2",
+    "ipAdministration": "8:12",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-050",
+    "Period": "P3",
+    "ipAdministration": "8:10",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-050",
+    "Period": "P4",
+    "ipAdministration": "8:05",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:15"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-051",
+    "Period": "P1",
+    "ipAdministration": "8:18",
+    "devmin": [
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:18"
+      }
+    ],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:30"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-051",
+    "Period": "P2",
+    "ipAdministration": "8:16",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:16"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-051",
+    "Period": "P3",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-051",
+    "Period": "P4",
+    "ipAdministration": "8:09",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-052",
+    "Period": "P1",
+    "ipAdministration": "8:00",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:25"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-052",
+    "Period": "P2",
+    "ipAdministration": "7:56",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:29"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-052",
+    "Period": "P3",
+    "ipAdministration": "7:52",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:28"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-052",
+    "Period": "P4",
+    "ipAdministration": "7:49",
+    "devmin": [],
+    "devmax": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:31"
+      }
+    ]
+  },
+  {
+    "SUBJECTID": "01-053",
+    "Period": "P1",
+    "ipAdministration": "8:20",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h20:30 - IP adm.)",
+        "val": "-0:20"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h20:30 - IP adm.)",
+        "val": "-0:20"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-053",
+    "Period": "P2",
+    "ipAdministration": "8:03",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:17"
+      }
+    ],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-053",
+    "Period": "P3",
+    "ipAdministration": "8:13",
+    "devmin": [],
+    "devmax": []
+  },
+  {
+    "SUBJECTID": "01-053",
+    "Period": "P4",
+    "ipAdministration": "7:47",
+    "devmin": [
+      {
+        "colonna": "Diff (Meal Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      },
+      {
+        "colonna": "Diff (Water Day 1 h12:00 - IP adm.)",
+        "val": "0:23"
+      }
+    ],
+    "devmax": []
+  }
+]
